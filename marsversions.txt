@@ -1,0 +1,7 @@
+diff --git a/mars.txt b/mars.txt
+index 6a4238f..d9aded4 100644
+--- a/mars.txt
++++ b/mars.txt
+@@ -1 +1,2 @@
+ blablabla
++blobloblo
